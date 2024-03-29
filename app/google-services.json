@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842903729499",
+    "project_id": "quizz-app-errahimi",
+    "storage_bucket": "quizz-app-errahimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842903729499:android:c57bafe43fefa96c09567e",
+        "android_client_info": {
+          "package_name": "com.example.quizz_app_errahimi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK3zNonxirM_GQlkoMpGzSkCg8CC92iiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
